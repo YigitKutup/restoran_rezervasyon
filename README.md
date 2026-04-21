@@ -1,9 +1,7 @@
 # 🍽️ Rezervasyon Sistemi
 
 **Yapımcı:** Necati Yiğit Kutup  
-**Yıl:** 2026  
-**Lisans:** MIT
-
+**Canlı Link:** [https://yigitkutup.github.io/restoran_rezervasyon/]
 ---
 
 ## 📋 Proje Hakkında
@@ -36,32 +34,6 @@ rezervasyon-sistemi/
 │   └── javaScript.js   # Mekan verileri, rezervasyon mantığı
 └── README.md           # Bu dosya
 ```
-
----
-
-## 🛠️ Kurulum & Çalıştırma
-
-### Yerel Çalıştırma
-
-1. Repoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullanici-adi/rezervasyon-sistemi.git
-   ```
-
-2. Proje klasörüne girin:
-   ```bash
-   cd rezervasyon-sistemi
-   ```
-
-3. `index.html` dosyasını tarayıcınızda açın.  
-   Herhangi bir sunucu veya kurulum gerektirmez.
-
-### GitHub Pages ile Yayınlama
-
-1. GitHub'da reponuza gidin.
-2. **Settings → Pages** bölümüne tıklayın.
-3. **Source** olarak `main` branch ve `/ (root)` seçin.
-4. Kaydedin — siteniz birkaç dakika içinde yayında olacak.
 
 ---
 
